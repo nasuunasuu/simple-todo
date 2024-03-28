@@ -1,10 +1,23 @@
-body{
+body {
     text-align: center;
-    
-    
 }
-.container{
+
+.container {
+    width: 500px;
+    margin: auto;
+    padding-top: 20px;
+
+}
+
+.inputSpace {
+    padding-bottom: 10px;
     background-color: #bbbbbb;
-    border: 1px solid ;
+    border: 1px solid;
     border-radius: 10px;
+}
+
+ul {
+    border: 1px dashed #bbbbbb;
+    border-radius: 10px;
+    text-align: left;
 }
