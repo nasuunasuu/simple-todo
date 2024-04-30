@@ -16,7 +16,13 @@ body {
     border-radius: 10px;
 }
 
-ul {
+ul{
+    padding: 5px;
+}
+
+li {
+    margin-top: 10px;
+    list-style: none;
     border: 1px dashed #bbbbbb;
     border-radius: 10px;
     text-align: left;
